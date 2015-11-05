@@ -43,7 +43,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html) by Conal Elliott #talk
 * [JavaScript API Design Principles](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat #talk
 * [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times. #talk
-* [Slay'n the Waste Monster](https://www.youtube.com/watch?v=RWmzxyMf2cE) by Colt McAnlis
+* [Slay'n the Waste Monster](https://www.youtube.com/watch?v=RWmzxyMf2cE) by Colt McAnlis #talk
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) #talk
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens #talk
 
