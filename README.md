@@ -48,6 +48,10 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) #talk
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens #talk
 
+## Exercises
+
+* [LearnRx](http://reactivex.io/learnrx/) #exercises
+* [NodeSchool](http://nodeschool.io/) #exercises
 
 ## Spec
 
