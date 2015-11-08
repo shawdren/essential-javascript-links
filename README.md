@@ -50,8 +50,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Exercises
 
+* [FreeCodeCamp](http://www.freecodecamp.com/) Learn to build apps & work on not-for-profit projects. #exercises
 * [LearnRx](http://reactivex.io/learnrx/) #exercises
-* [NodeSchool](http://nodeschool.io/) #exercises
 
 ## Spec
 
