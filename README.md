@@ -48,6 +48,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Slay'n the Waste Monster](https://www.youtube.com/watch?v=RWmzxyMf2cE) by Colt McAnlis #talk
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) #talk
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens #talk
+* [The Pixel Factory](https://www.youtube.com/watch?v=4NkjLWAkYZ8) by Steven Wittens #talk
 
 ## Exercises
 
