@@ -58,7 +58,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Spec
 
 * [ES5 Spec](http://es5.github.io/) An annotated, hyperlinked version of the ES5 spec
-* [ES6 Spec](http://www.ecma-international.org/ecma-262/6.0/)
+* [ES6 Spec](http://www.ecma-international.org/ecma-262/6.0/) ECMAScript® 2015 Language Specification
 
 
 ## Books
