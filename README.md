@@ -132,7 +132,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## JavaScript environments
 
 * [Node.js](http://nodejs.org/) Server side JavaScript and more
-* [io.js](https://iojs.org/) The Node fork
 
 
 ## Libraries
