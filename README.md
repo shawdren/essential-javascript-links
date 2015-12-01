@@ -111,8 +111,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ### Testing / Lint / Quality checkers
 
-* [JSHint](http://jshint.com/)
-* [ESLint](http://eslint.org/)
+* [JSHint](http://jshint.com/) A Static Code Analysis Tool for JavaScript.
+* [ESLint](http://eslint.org/) The pluggable linting utility for JavaScript and JSX.
 * [babel-eslint](https://github.com/babel/babel-eslint) Allow ES6 features to pass ESLint.
 * [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
 * [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem.
@@ -258,6 +258,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 
 ## News
+
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [Node Weekly](http://nodeweekly.com/)
