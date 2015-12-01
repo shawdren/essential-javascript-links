@@ -74,6 +74,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) by Reginald Braithwaite
 * [Node.js in Action](http://www.manning.com/cantelon/) by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html) by Ilya Grigorik #book
 * ["Seven Languages in Seven Weeks"](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) Learn different ways of solving problems and you'll deepen your understanding of JavaScript. #book
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI) by M. Mitchell Waldrop
 * [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
