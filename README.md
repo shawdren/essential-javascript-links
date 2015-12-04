@@ -115,9 +115,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JSCS](http://jscs.info/) Linter with a focus on automatic fixes and built-in style guide presets.
 * [babel-eslint](https://github.com/babel/babel-eslint) Allow ES6 features to pass ESLint.
 * [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
-* [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem.
+* [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem. #code
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
-* [blue-tape](https://github.com/spion/blue-tape) Minimal, dead simple unit testing using [tape](https://github.com/substack/tape). (This is all you need, really!)
+* [tape](https://github.com/substack/tape) Dead simple unit testing #code
 * [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
 * [Supertest](https://github.com/tj/supertest) The best way to test HTTP endpoints.
 
@@ -142,6 +142,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7. #code
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution. #code
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills. #code
+* [Deep Freeze](https://github.com/substack/deep-freeze) Deep freeze objects. #code
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com) #code
 * [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. #code
 * [cf-package](https://github.com/cloverfield-tools/cf-package) A Cloverfield scaffold that generates new modules (npm packages) complete with npm scripts and useful boilerplate. #code
