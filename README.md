@@ -154,7 +154,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events. #code
 * [TodoMVC](http://todomvc.com/) A showcase implementing many MV* libraries/frameworks using a standardized demo app (for easy comparisons). #code
 * [jQuery](http://jquery.com/) Most popular JS lib by a landslide. #code
-* [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor. #code
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. #code
 * [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive #code
 * [Lodash-FP](https://github.com/lodash/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API. #code
@@ -162,6 +161,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. #code
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. #code
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales). #code
+* [dotenv](https://github.com/motdotla/dotenv) Easily manage environment variables #code
 * [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. #code
 * [Lusca](https://github.com/krakenjs/lusca) Secure your Express application. By the Kraken team at PayPal.
 * [Express](http://expressjs.com/) The most popular framework for Node. #code
