@@ -313,6 +313,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Fightcode](http://fightcodegame.com/) Program robots to do battle
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
 * [The Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
+* [CodeCombat](https://codecombat.com/) RPG adventure controlled by JavaScript
 
 
 ## Twitter (alphabetical order)
