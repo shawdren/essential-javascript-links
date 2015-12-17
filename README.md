@@ -187,7 +187,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter) Learn React pure components #code
 * [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component #article
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) #video
-* [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy #code
+* [react-stamp](https://github.com/stampit-org/react-stamp) Composable, classless React components made easy #code
 * [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken #code
 * [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles #code
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #code
