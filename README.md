@@ -244,7 +244,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Docker](https://www.docker.com/) Run your CI process using the same OS configs as your production systems.
 * [Shippable](https://www.shippable.com/) Docker-based hosted build / CI
 * [Tensō](http://avoidwork.github.io/tenso/) A thin API facade in Node
-* [Kong](http://getkong.org/) API/microservice extension and management layer, centralize auth, cache, logging, rate limiting, etc... plugins in LUA );
+* [Kong](http://getkong.org/) API/microservice extension and management layer, centralize auth, cache, logging, rate limiting, etc... plugins in Lua );
 
 
 ## Community
